@@ -1,0 +1,111 @@
+[13:39:41.052] [Start] 程序版本：Release 2.6.13（313）
+[13:39:41.080] [Start] 识别码：3EED-923D-A539-37A0
+[13:39:41.080] [Start] 程序路径：C:\Users\mac\Desktop\Shicy\PCL2.exe
+[13:39:41.164] [Start] 第一阶段加载用时：328 ms
+[13:39:42.726] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[13:39:42.728] [Start] 第二阶段加载用时：1422 ms
+[13:39:42.861] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[13:39:43.958] [UI] 加载背景图片：C:\Users\mac\Desktop\Shicy\PCL\Pictures\3.jpg
+[13:39:44.024] [Music] 播放开始：C:\Users\mac\Desktop\Shicy\PCL\Musics\Sky.mp3
+[13:39:44.027] [Start] 加载 DLL：NAudio
+[13:39:44.028] [System] 获取资源：NAudio
+[13:39:44.247] [System] 窗口已置顶，位置：(235, 165), 810 x 470
+[13:39:44.251] [Animation] 动画线程开始
+[13:39:44.252] [Start] 第三阶段加载用时：328 ms
+[13:39:44.253] [Start] 加载 DLL：Json
+[13:39:44.253] [System] 获取资源：Json
+[13:39:44.280] [Page] 主页自定义数据来源：本地文件
+[13:39:44.292] [Launch] Minecraft 文件夹：D:\.minecraft\
+[13:39:45.018] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[13:39:45.035] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[13:39:45.581] [Java] 缓存中有 5 个可用的 Java：
+[13:39:45.583] [Java]  - JDK 17 (17.0.8)，64 位：C:\Users\mac\AppData\Roaming\.minecraft\runtime\java-runtime-gamma-snapshot\bin\
+[13:39:45.583] [Java]  - JDK 11 (11.0.20)，64 位，手动导入：D:\java11\bin\
+[13:39:45.583] [Java]  - JRE 8 (8.0.60)，64 位：C:\MCLDownload\ext\jre-v64-220420\jre8\bin\
+[13:39:45.583] [Java]  - JRE 8 (8.0.401)，64 位：C:\Program Files\Java\jre-1.8\bin\
+[13:39:45.583] [Java]  - JDK 17 (17.0.2)，64 位：C:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[13:39:45.590] [Page] 实例化：加载自定义主页 UI，最终内容长度：5098
+[13:39:45.791] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[13:39:45.793] [Loader] 加载器 PCL 服务 状态改变：Loading
+[13:39:45.794] [Server] 正在连接到 PCL 服务器
+[13:39:45.801] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[13:39:45.817] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1707025186-5686b43e-0-556367b2f3084992e4bc0a8c4b0475a2，超时 10000ms
+[13:39:45.819] [Animation] 两个动画帧间隔 1037 ms
+[13:39:45.847] [Skin] 载入头像成功：Loader Skin Auth
+[13:39:45.847] [Animation] 两个动画帧间隔 213 ms
+[13:39:45.848] [System] DPI：192，系统版本：10.0.17763.0，PCL 位置：C:\Users\mac\Desktop\Shicy\PCL2.exe
+[13:39:45.852] [Minecraft] 启动按钮：Minecraft 版本：D:\.minecraft\versions\the ultimate goal\
+[13:39:45.861] [Loader] 加载器 登录 状态改变：Loading
+[13:39:45.867] [Launch] 登录加载已开始
+[13:39:45.869] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[13:39:45.876] [Launch] 登录方式：Authlib-Injector（17856252288@163.com）
+[13:39:45.879] [Launch] 验证登录开始（Validate, Auth）
+[13:39:45.886] [Net] 发起网络请求（POST，https://mcskin.mahua-a.top/api/yggdrasil/authserver/validate），最大超时 15000
+[13:39:46.510] [Server] 服务器公告：126|312|313|5，无需更新
+[13:39:46.521] [Loader] 加载器 PCL 服务 状态改变：Finished
+[13:39:46.844] [Launch] 验证登录成功（Validate, Auth）
+[13:39:46.855] [Loader] 加载器 Loader Login Auth 状态改变：Finished
+[13:39:46.900] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[13:39:46.920] [Launch] 登录加载已结束
+[13:39:46.921] [Loader] 加载器 登录 状态改变：Finished
+[13:39:47.259] [Control] 展开卡片：快速链接
+[13:39:52.414] [Control] 折叠卡片：快速链接
+[13:39:52.806] [Control] 展开卡片：须知
+[13:39:57.694] [Control] 折叠卡片：须知
+[13:39:58.285] [Control] 展开卡片：关于时辰羽
+[13:40:02.727] [Control] 展开卡片：快速链接
+[13:40:12.126] [Control] 折叠卡片：快速链接
+[13:40:12.974] [Control] 展开卡片：须知
+[13:40:13.504] [Control] 折叠卡片：须知
+[13:40:14.142] [Control] 展开卡片：须知
+[13:40:14.375] [Control] 折叠卡片：须知
+[13:40:14.625] [Control] 展开卡片：须知
+[13:40:14.814] [Control] 折叠卡片：须知
+[13:40:15.040] [Control] 展开卡片：须知
+[13:40:15.310] [Control] 折叠卡片：须知
+[13:40:15.510] [Control] 展开卡片：须知
+[13:40:16.078] [Control] 折叠卡片：须知
+[13:40:16.670] [Control] 展开卡片：须知
+[13:40:17.334] [Control] 折叠卡片：须知
+[13:40:17.799] [Control] 展开卡片：须知
+[13:40:18.038] [Control] 折叠卡片：须知
+[13:42:49.119] [Music] 播放开始：C:\Users\mac\Desktop\Shicy\PCL\Musics\Sky.mp3
+[13:45:54.046] [Music] 播放开始：C:\Users\mac\Desktop\Shicy\PCL\Musics\Sky.mp3
+[13:48:58.980] [Music] 播放开始：C:\Users\mac\Desktop\Shicy\PCL\Musics\Sky.mp3
+[13:52:03.886] [Music] 播放开始：C:\Users\mac\Desktop\Shicy\PCL\Musics\Sky.mp3
+[13:55:08.770] [Music] 播放开始：C:\Users\mac\Desktop\Shicy\PCL\Musics\Sky.mp3
+[13:56:59.277] [Control] 折叠卡片：关于时辰羽
+[13:57:00.055] [Control] 按下单选按钮：下载
+[13:57:00.245] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[13:57:00.252] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[13:57:00.252] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[13:57:00.253] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[13:57:00.256] [Control] 切换主要页面：Download, -1
+[13:57:00.277] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[13:57:00.279] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[13:57:00.282] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[13:57:00.283] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[13:57:00.286] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，超时 10000ms，要求 json
+[13:57:00.290] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[13:57:00.291] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，超时 10000ms，要求 json
+[13:57:00.292] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[13:57:00.295] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，超时 10000ms，要求 json
+[13:57:00.306] [Download] 刷新 Forge 推荐版本缓存开始
+[13:57:00.313] [Loader] 加载器 源码获取 285# 状态改变：Loading
+[13:57:00.411] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[13:57:00.420] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[13:57:00.482] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[13:57:00.488] [Download] -1798645995_284 310#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[13:57:00.568] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[13:57:00.569] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[13:57:00.582] [Download] -1798645995_284：文件大小 49162 B（48 K）
+[13:57:00.610] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[13:57:00.610] [Download] -1798645995_284：已完成，剩余文件 0
+[13:57:00.611] [Loader] 加载器 源码获取 285# 状态改变：Finished
+[13:57:00.617] [Download] 刷新 Forge 推荐版本缓存成功
+[13:57:01.289] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[13:57:01.299] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[13:57:03.550] [Control] 按下图标按钮：BtnTitleClose
+[13:57:03.558] [System] 收到关闭指令
+[13:57:03.745] [Report] FPS 0, 动画 7, 下载中 0（0 B/s）
+[13:57:03.854] [System] 程序已退出，返回值：Success
